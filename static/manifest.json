@@ -1,6 +1,6 @@
 {
-  "name": "todo-list",
-  "short_name": "todo-list",
+  "name": "todo-app",
+  "short_name": "todo-app",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
